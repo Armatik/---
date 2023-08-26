@@ -1,0 +1,168 @@
+{
+  "main": {
+    "id": "6c7b2092218f0ccc",
+    "type": "split",
+    "children": [
+      {
+        "id": "ff17a9fc69ebf1d8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "186fd2b224b47b97",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "4809704d373adfcb",
+    "type": "split",
+    "children": [
+      {
+        "id": "148b2067abef1007",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a4d52bad1fe6a3c1",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "09b470aac8b98afe",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "03e5abc852899ebb",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "2139c207614239ec",
+    "type": "split",
+    "children": [
+      {
+        "id": "11fbe0629a5755ab",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "94c2ac87df0a6c11",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "7c9abd279535edb0",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "d27ed1f267f59778",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "ad60bdf925f264f3",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Меню быстрого перехода": false,
+      "graph:Граф": false,
+      "canvas:Создать новый холст": false,
+      "daily-notes:Сегодняшняя заметка": false,
+      "templates:Вставить шаблон": false,
+      "command-palette:Открыть палитру команд": false
+    }
+  },
+  "active": "186fd2b224b47b97",
+  "lastOpenFiles": [
+    "Вектор.md",
+    "Не квадратные матрицы как трансформация между измерениями.md",
+    "Линейная трансформация и композиция, умножение матриц как композиция.md",
+    "Картинки/Pasted image 20230813183417.png",
+    "Картинки/Pasted image 20230813183241.png",
+    "Трёхмерные линейные трансформации.md",
+    "Обратная матрица.md",
+    "Векторные пространства.md",
+    "Определитель.md",
+    "Картинки/Pasted image 20230813171418.png",
+    "Картинки/Pasted image 20230813175357.png",
+    "Картинки/Pasted image 20230813175141.png",
+    "Картинки/Pasted image 20230813174518.png",
+    "Картинки/Pasted image 20230813174216.png",
+    "Запись-экрана-от-2023-08-13-17-33-36.gif",
+    "Картинки/Запись-экрана-от-2023-08-13-17-35-34.gif",
+    "Картинки/Pasted image 20230813172809.png",
+    "Тензор.md",
+    "**Линейная трансформация и композиция, умножение матриц как композиция.md",
+    "[[Вектор]].md",
+    "().md",
+    "Без названия.canvas",
+    "2023-08-06.md",
+    "Без названия"
+  ]
+}
